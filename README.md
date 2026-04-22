@@ -365,4 +365,3 @@ Pull requests are welcome. For major changes, open an issue first.
 
 **Prem Bedre** - BCA(GEN),CMR University, Bengaluru
 
-Built as a hackathon project for the AI in Cybersecurity theme.
