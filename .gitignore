@@ -1,0 +1,18 @@
+veridex/data/email_data.csv
+veridex/data/malicious_url.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.env
+
+# MacOS
+__MACOSX/
+.DS_Store
+
+# Node
+node_modules/
+dist/
+build/
